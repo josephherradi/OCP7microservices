@@ -28,9 +28,4 @@ target/
 build/
 
 ### VS Code ###
-.vscod/
-
-.mvnw
-.mvnw.cmd
-*.log
-
+.vscode/

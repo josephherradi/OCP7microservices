@@ -8,6 +8,5 @@ import java.util.List;
 
 @Repository
 public interface LivreDAO extends JpaRepository<Livre,Integer> {
-    public List<Livre> findAll();
 
 }
